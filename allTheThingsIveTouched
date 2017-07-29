@@ -1,0 +1,214 @@
++=============+
+| HYPERVISORS |
++=============+
+OracleVM VirtualBox
+  primary work environment to load Ubuntu or CentOS
+
++===================+
+| OPERATING SYSTEMS |
++===================+
+Ubuntu16
+  Current work environment
+  Gnome/Unity
+  gedit color format for typescript
+CentOS6
+Windows7,10
+
++========+
+| SHELLS |
++========+
+powershell
+terminal (Windows)
+bash
+
++==============+
+| TEXT EDITORS |
++==============+
+gedit
+notepad++
+vi
+vim
+emacs
+
++==================+
+| MACHINE LEARNING |
++==================+
+openCV (C++/Python)
+scikit-learn (Python)
+NLTK (Python)
+numpy (Python)
+theano (Python)
+tensor-flow (Python)
+torch (Lua)
+  nn
+  rnn (https://github.com/Element-Research/rnn)
+R
+  randomForest (R)
+  nnet (R)
+
++=============+
+| USER AGENTS |
++=============+
+Firefox
+  greasemonkey
+  Selenium
+  SeleniumUI
+  HttpRequester
+  TamperData
+  User Agent Switcher
+Chrome
+Internet Explorer
+SoapUI
+
++=====================================+
+| INTEGRATED DEVELOPMENT ENVIRONMENTS |
++=====================================+
+Eclipse IDE (MyEclipse)
+  Checkstyle
+  Findbugs
+  Sonar
+RStudio
+Jupyter
+VisualBasic
+Slime
+
++================+
+| WEB FRAMEWORKS |
++================+
+Angular2
+Spring
+Spring Webflow
+JSP
+JSF
+Primefaces
+jQuery
+
++=======================+
+| PROGRAMMING LANGUAGES |
++=======================+
+Java
+JavaScript
+Python
+C/C++
+Typescript
+R
+scala
+prolog
+LISP
+scheme
+perl
+lua
+
++===================+
+| SECURITY SOFTWARE |
++===================+
+OWASP ZAP
+WebScarab
+
++===========+
+| DATABASES |
++===========+
+SQLite
+MSSQL
+MySQL
+
++===========================+
+| OBJECT RELATIONAL MAPPERS |
++===========================+
+Hibernate
+
++================+
+| GRAPHICS TOOLS |
++================+
+Photoshop
+Illustrator
+Inkscape
+Gimp
+Blender
+
++================+
+| PLOTTING TOOLS |
++================+
+gnuplot
+ggplot
+matplotlib
+
++=============+
+| BUILD TOOLS |
++=============+
+Apache Maven
+MAKE
+Grunt
+
++===============+
+| BOOTSTRAPPERS |
++===============+
+GRUB
+
++==============================+
+| SYSADMIN AND SYSTEM SETTINGS |
++==============================+
+CUDA
+virtualenv
+
++=========+
+| SERVERS |
++=========+
+node
+Apache Tomcat 7,8
+
++==================+
+| PACKAGE MANAGERS |
++==================+
+npm
+pip
+
++==========================+
+| TEAM COLLABORATION TOOLS |
++==========================+
+Docuwiki
+JIRA
+Jenkins
+jUnit
+
++=================+
+| VERSION CONTROL |
++=================+
+git
+svn
+Subclipse
+  repoguard pre/post-commit hooks (Python)
+tortoiseSvn
+
++============+
+| UML DESIGN |
++============+
+Enterprise Architect
+PlantUML
+
++===============+
+| WEB PROTOCOLS |
++===============+
+HTML
+XHTML
+CSS
+OWL (Web Ontology Language)
+HTTP
+DOM
+
++=======+
+| BOOKS |
++=======+
+Code Complete
+xUnit Test Patterns
+Absolute Java
+Structure and Interpretation Of Computer Programs
+
++
+|
++
+Neural Networks
+Linear Programming
+Support Vector Machines
+Convex Optimization
+
